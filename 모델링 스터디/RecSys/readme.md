@@ -29,4 +29,14 @@
 - 학습내용: Recommender Systems The Textbook Chapter 1,2
 - 발제자: 유채원
 
+#### 5주차 (23.02.12)
+- 학습내용: Wide&Deep Learning for Recommender Systems 
+- 발제자: 김남훈
 
+#### 6주차 (23.02.21)
+- 학습내용: Wide&Deep Learning for Recommender Systems
+- 발제자: 최윤서
+
+#### 7주차(23.02.28)
+- 학습내용:
+- 발제자: 
